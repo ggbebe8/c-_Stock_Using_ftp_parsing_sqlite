@@ -1,0 +1,17 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartWorkingDirectory>C:\Users\ggbeb\Desktop\새 폴더 (3)\StockCalc\StockCalc 디버깅\</StartWorkingDirectory>
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+    <RemoteDebugMachine>\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc 디버깅</RemoteDebugMachine>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartWorkingDirectory>\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc 디버깅</StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <StartWorkingDirectory>C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc 디버깅\</StartWorkingDirectory>
+    <RemoteDebugMachine>\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc 디버깅</RemoteDebugMachine>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <StartWorkingDirectory>\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc 디버깅</StartWorkingDirectory>
+  </PropertyGroup>
+</Project>

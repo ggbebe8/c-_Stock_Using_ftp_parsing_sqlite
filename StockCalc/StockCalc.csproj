@@ -1,0 +1,280 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A55AD5F7-73C3-4B37-856E-E2CEFCDDAF7B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>StockCalc</RootNamespace>
+    <AssemblyName>StockCalc</AssemblyName>
+    <ApplicationIcon>accessories_calculator.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\StockCalc 디버깅\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\StockCalc 디버깅\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>..\StockCalc 디버깅\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.SQLite, Version=1.0.108.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=x86">
+      <HintPath>..\..\Arrangement 프로젝트\System.Data.SQLite.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Deployment">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Calc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calc.Designer.cs">
+      <DependentUpon>Calc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Code.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Code.Designer.cs">
+      <DependentUpon>Code.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConCboSearch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ConCboSearch.Designer.cs">
+      <DependentUpon>ConCboSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Detail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Detail.Designer.cs">
+      <DependentUpon>Detail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm\ViewStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm\ViewStock.Designer.cs">
+      <DependentUpon>ViewStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm\Input.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm\Input.Designer.cs">
+      <DependentUpon>Input.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm\MdiParents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm\MdiParents.Designer.cs">
+      <DependentUpon>MdiParents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Memo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Memo.Designer.cs">
+      <DependentUpon>Memo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Memo\EnrollForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Memo\EnrollForm.designer.cs">
+      <DependentUpon>EnrollForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Memo\MemoMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Memo\MemoMain.designer.cs">
+      <DependentUpon>MemoMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Network.cs" />
+    <Compile Include="Option.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Option.Designer.cs">
+      <DependentUpon>Option.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parser.cs" />
+    <Compile Include="Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report.Designer.cs">
+      <DependentUpon>Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Setting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Setting.Designer.cs">
+      <DependentUpon>Setting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Calc.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Calc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Code.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Code.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConCboSearch.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ConCboSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Detail.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Detail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm\ViewStock.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ViewStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm\Input.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Input.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm\MdiParents.resx">
+      <DependentUpon>MdiParents.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Memo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Memo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Memo\EnrollForm.resx">
+      <DependentUpon>EnrollForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Memo\MemoMain.resx">
+      <DependentUpon>MemoMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Option.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Option.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setting.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Setting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Query.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Query.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Revenue.resx">
+      <DependentUpon>Revenue.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SimpleMemo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SimpleMemo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sync.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Sync.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Query.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Query.Designer.cs">
+      <DependentUpon>Query.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Revenue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Revenue.Designer.cs">
+      <DependentUpon>Revenue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SimpleMemo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SimpleMemo.Designer.cs">
+      <DependentUpon>SimpleMemo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sync.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sync.Designer.cs">
+      <DependentUpon>Sync.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Variables.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="accessories_calculator.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

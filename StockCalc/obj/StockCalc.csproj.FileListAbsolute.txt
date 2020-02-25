@@ -1,0 +1,290 @@
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\obj\Release\ResolveAssemblyReference.cache
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\obj\Release\StockCalc.Properties.Resources.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\obj\Release\StockCalc.csproj.GenerateResource.Cache
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\bin\Release\StockCalc.exe
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\bin\Release\StockCalc.pdb
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\obj\Release\StockCalc.exe
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\obj\Release\StockCalc.pdb
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\bin\Debug\StockCalc.exe
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\bin\Debug\StockCalc.pdb
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\obj\Debug\StockCalc.Properties.Resources.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\obj\Debug\StockCalc.QueryForm.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\obj\Debug\StockCalc.csproj.GenerateResource.Cache
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\obj\Debug\StockCalc.exe
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\obj\Debug\StockCalc.pdb
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\obj\Release\StockCalc.QueryForm.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\obj\Debug\StockCalc.StockCalc.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\obj\Debug\StockCalc.Report.resources
+C:\Users\ggbeb\Desktop\그냥 때려박자\StockCalc\StockCalc\obj\Debug\StockCalc.exe
+C:\Users\ggbeb\Desktop\그냥 때려박자\StockCalc\StockCalc\obj\Debug\StockCalc.pdb
+C:\Users\ggbeb\Desktop\그냥 때려박자\StockCalc\StockCalc\bin\Debug\StockCalc.exe
+C:\Users\ggbeb\Desktop\그냥 때려박자\StockCalc\StockCalc\bin\Debug\StockCalc.pdb
+C:\Users\ggbeb\Desktop\그냥 때려박자\StockCalc\StockCalc\bin\Debug\System.Data.SQLite.dll
+C:\Users\ggbeb\Desktop\그냥 때려박자\StockCalc\StockCalc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ggbeb\Desktop\그냥 때려박자\StockCalc\StockCalc\obj\Debug\StockCalc.Report.resources
+C:\Users\ggbeb\Desktop\그냥 때려박자\StockCalc\StockCalc\obj\Debug\StockCalc.StockCalc.resources
+C:\Users\ggbeb\Desktop\그냥 때려박자\StockCalc\StockCalc\obj\Debug\StockCalc.Properties.Resources.resources
+C:\Users\ggbeb\Desktop\그냥 때려박자\StockCalc\StockCalc\obj\Debug\StockCalc.QueryForm.resources
+C:\Users\ggbeb\Desktop\그냥 때려박자\StockCalc\StockCalc\obj\Debug\StockCalc.csproj.GenerateResource.Cache
+C:\Users\ggbeb\Desktop\그냥 때려박자\StockCalc\StockCalc\obj\Debug\StockCalc.Revenue.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\obj\Debug\StockCalc.Revenue.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\obj\Debug\StockCalc.Memo.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\obj\Debug\StockCalc.Code.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\obj\Release\StockCalc.Code.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\obj\Release\StockCalc.Memo.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\obj\Release\StockCalc.Report.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\obj\Release\StockCalc.StockCalc.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\obj\Release\StockCalc.Revenue.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc 디버깅\StockCalc.exe
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc 디버깅\StockCalc.pdb
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\bin\Debug\System.Data.dll
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\bin\Debug\System.Data.SQLite.dll
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\bin\Debug\System.Deployment.dll
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\bin\Debug\System.dll
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\bin\Debug\System.Drawing.dll
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\bin\Debug\System.Windows.Forms.dll
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\bin\Debug\System.Xml.dll
+C:\Users\ggbeb\Desktop\그냥 때려박자\StockCalc\StockCalc\bin\Debug\System.Data.dll
+C:\Users\ggbeb\Desktop\그냥 때려박자\StockCalc\StockCalc\bin\Debug\System.Deployment.dll
+C:\Users\ggbeb\Desktop\그냥 때려박자\StockCalc\StockCalc\bin\Debug\System.dll
+C:\Users\ggbeb\Desktop\그냥 때려박자\StockCalc\StockCalc\bin\Debug\System.Drawing.dll
+C:\Users\ggbeb\Desktop\그냥 때려박자\StockCalc\StockCalc\bin\Debug\System.Windows.Forms.dll
+C:\Users\ggbeb\Desktop\그냥 때려박자\StockCalc\StockCalc\bin\Debug\System.Xml.dll
+C:\Users\ggbeb\Desktop\그냥 때려박자\StockCalc\StockCalc\obj\Debug\StockCalc.Code.resources
+C:\Users\ggbeb\Desktop\그냥 때려박자\StockCalc\StockCalc\obj\Debug\StockCalc.Memo.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.exe
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.pdb
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\ResolveAssemblyReference.cache
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.Code.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.Memo.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.Report.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.StockCalc.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.Properties.Resources.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.QueryForm.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.Revenue.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.csproj.GenerateResource.Cache
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.exe
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.pdb
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\bin\Debug\StockCalc.exe
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\bin\Debug\StockCalc.pdb
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\bin\Debug\System.Data.dll
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\bin\Debug\System.Data.SQLite.dll
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\bin\Debug\System.Deployment.dll
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\bin\Debug\System.dll
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\bin\Debug\System.Drawing.dll
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\bin\Debug\System.Windows.Forms.dll
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\bin\Debug\System.Xml.dll
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\bin\Debug\System.Data.SQLite.pdb
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Code.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Memo.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Report.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.StockCalc.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Properties.Resources.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.QueryForm.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Revenue.resources
+C:\Users\you\Desktop\테스트용프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.csproj.GenerateResource.Cache
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.exe
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.pdb
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc 디버깅\StockCalc.exe
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc 디버깅\StockCalc.pdb
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\ResolveAssemblyReference.cache
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.Code.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.Memo.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.Report.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.Properties.Resources.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.Revenue.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.csproj.GenerateResource.Cache
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\bin\Debug\StockCalc.exe
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\bin\Debug\StockCalc.pdb
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\bin\Debug\System.Data.dll
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\bin\Debug\System.Deployment.dll
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\bin\Debug\System.dll
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\bin\Debug\System.Drawing.dll
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\bin\Debug\System.Windows.Forms.dll
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\bin\Debug\System.Xml.dll
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\bin\Debug\System.Data.SQLite.pdb
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\ResolveAssemblyReference.cache
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Code.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Memo.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Report.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Properties.Resources.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Revenue.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.csproj.GenerateResource.Cache
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.exe
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.pdb
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.Sync.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Sync.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc 디버깅\StockCalc.exe
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc 디버깅\StockCalc.pdb
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.Setting.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Setting.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Input.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.Input.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.MdiParents.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.MdiParents.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.ViewStock.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.ViewStock.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.Query.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Query.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.EnrollForm.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.MemoMain.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.EnrollForm.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.MemoMain.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Detail.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.Detail.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Option.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.Option.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.exe
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.pdb
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc 디버깅\StockCalc.exe
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc 디버깅\StockCalc.pdb
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\ResolveAssemblyReference.cache
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.Code.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.Detail.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.ViewStock.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.Input.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.MdiParents.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.Memo.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.EnrollForm.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.MemoMain.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.Option.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.Report.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.Setting.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.Properties.Resources.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.Query.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.Revenue.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.Sync.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.csproj.GenerateResource.Cache
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.exe
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.pdb
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\ResolveAssemblyReference.cache
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Code.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Detail.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.ViewStock.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Input.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.MdiParents.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Memo.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.EnrollForm.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.MemoMain.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Option.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Report.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Setting.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Properties.Resources.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Query.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Revenue.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Sync.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.csproj.GenerateResource.Cache
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Release\StockCalc.Calc.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Calc.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Release\ResolveAssemblyReference.cache
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Release\StockCalc.Calc.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Release\StockCalc.Code.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Release\StockCalc.Detail.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Release\StockCalc.ViewStock.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Release\StockCalc.Input.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Release\StockCalc.MdiParents.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Release\StockCalc.Memo.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Release\StockCalc.EnrollForm.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Release\StockCalc.MemoMain.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Release\StockCalc.Option.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Release\StockCalc.Report.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Release\StockCalc.Setting.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Release\StockCalc.Properties.Resources.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Release\StockCalc.Query.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Release\StockCalc.Revenue.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Release\StockCalc.Sync.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Release\StockCalc.csproj.GenerateResource.Cache
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Debug\ResolveAssemblyReference.cache
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.Calc.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.Code.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.Detail.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.ViewStock.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.Input.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.MdiParents.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.Memo.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.EnrollForm.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.MemoMain.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.Option.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.Report.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.Setting.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.Properties.Resources.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.Query.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.Revenue.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.Sync.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.csproj.GenerateResource.Cache
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.ConCboSearch.resources
+\\192.168.0.100\ggbebe8\프로젝트\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.SimpleMemo.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.exe
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.pdb
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc 디버깅\StockCalc.exe
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc 디버깅\StockCalc.pdb
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Calc.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Code.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.ConCboSearch.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Detail.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.ViewStock.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Input.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.MdiParents.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Memo.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.EnrollForm.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.MemoMain.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Option.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Report.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Setting.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Properties.Resources.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Query.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Revenue.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.SimpleMemo.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.Sync.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\Debug\StockCalc.csproj.GenerateResource.Cache
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.Calc.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.Code.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.ConCboSearch.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.Detail.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.ViewStock.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.Input.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.MdiParents.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.Memo.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.EnrollForm.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.MemoMain.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.Option.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.Report.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.Setting.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.Properties.Resources.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.Query.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.Revenue.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.SimpleMemo.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.Sync.resources
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.csproj.GenerateResource.Cache
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc 디버깅\StockCalc.exe
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc 디버깅\StockCalc.pdb
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.exe
+C:\Users\ggbeb\Desktop\새 폴더 (2)\StockCalc\StockCalc\StockCalc\obj\x86\Debug\StockCalc.pdb
+C:\Users\ggbeb\Desktop\새 폴더 (3)\StockCalc\StockCalc\obj\Debug\StockCalc.exe
+C:\Users\ggbeb\Desktop\새 폴더 (3)\StockCalc\StockCalc\obj\Debug\StockCalc.pdb
+C:\Users\ggbeb\Desktop\새 폴더 (3)\StockCalc\StockCalc 디버깅\StockCalc.exe
+C:\Users\ggbeb\Desktop\새 폴더 (3)\StockCalc\StockCalc 디버깅\StockCalc.pdb
+C:\Users\ggbeb\Desktop\새 폴더 (3)\StockCalc\StockCalc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ggbeb\Desktop\새 폴더 (3)\StockCalc\StockCalc\obj\Debug\StockCalc.Calc.resources
+C:\Users\ggbeb\Desktop\새 폴더 (3)\StockCalc\StockCalc\obj\Debug\StockCalc.Code.resources
+C:\Users\ggbeb\Desktop\새 폴더 (3)\StockCalc\StockCalc\obj\Debug\StockCalc.ConCboSearch.resources
+C:\Users\ggbeb\Desktop\새 폴더 (3)\StockCalc\StockCalc\obj\Debug\StockCalc.Detail.resources
+C:\Users\ggbeb\Desktop\새 폴더 (3)\StockCalc\StockCalc\obj\Debug\StockCalc.ViewStock.resources
+C:\Users\ggbeb\Desktop\새 폴더 (3)\StockCalc\StockCalc\obj\Debug\StockCalc.Input.resources
+C:\Users\ggbeb\Desktop\새 폴더 (3)\StockCalc\StockCalc\obj\Debug\StockCalc.MdiParents.resources
+C:\Users\ggbeb\Desktop\새 폴더 (3)\StockCalc\StockCalc\obj\Debug\StockCalc.Memo.resources
+C:\Users\ggbeb\Desktop\새 폴더 (3)\StockCalc\StockCalc\obj\Debug\StockCalc.EnrollForm.resources
+C:\Users\ggbeb\Desktop\새 폴더 (3)\StockCalc\StockCalc\obj\Debug\StockCalc.MemoMain.resources
+C:\Users\ggbeb\Desktop\새 폴더 (3)\StockCalc\StockCalc\obj\Debug\StockCalc.Option.resources
+C:\Users\ggbeb\Desktop\새 폴더 (3)\StockCalc\StockCalc\obj\Debug\StockCalc.Report.resources
+C:\Users\ggbeb\Desktop\새 폴더 (3)\StockCalc\StockCalc\obj\Debug\StockCalc.Setting.resources
+C:\Users\ggbeb\Desktop\새 폴더 (3)\StockCalc\StockCalc\obj\Debug\StockCalc.Properties.Resources.resources
+C:\Users\ggbeb\Desktop\새 폴더 (3)\StockCalc\StockCalc\obj\Debug\StockCalc.Query.resources
+C:\Users\ggbeb\Desktop\새 폴더 (3)\StockCalc\StockCalc\obj\Debug\StockCalc.Revenue.resources
+C:\Users\ggbeb\Desktop\새 폴더 (3)\StockCalc\StockCalc\obj\Debug\StockCalc.SimpleMemo.resources
+C:\Users\ggbeb\Desktop\새 폴더 (3)\StockCalc\StockCalc\obj\Debug\StockCalc.Sync.resources
+C:\Users\ggbeb\Desktop\새 폴더 (3)\StockCalc\StockCalc\obj\Debug\StockCalc.csproj.GenerateResource.Cache
