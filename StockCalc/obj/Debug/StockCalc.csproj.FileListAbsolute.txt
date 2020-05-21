@@ -1,0 +1,26 @@
+D:\gitSrc\c-_Stock_Using_ftp_parsing_sqlite\StockCalc 디버깅\StockCalc.exe
+D:\gitSrc\c-_Stock_Using_ftp_parsing_sqlite\StockCalc 디버깅\StockCalc.pdb
+D:\gitSrc\c-_Stock_Using_ftp_parsing_sqlite\StockCalc\obj\Debug\StockCalc.csprojAssemblyReference.cache
+D:\gitSrc\c-_Stock_Using_ftp_parsing_sqlite\StockCalc\obj\Debug\StockCalc.Calc.resources
+D:\gitSrc\c-_Stock_Using_ftp_parsing_sqlite\StockCalc\obj\Debug\StockCalc.Code.resources
+D:\gitSrc\c-_Stock_Using_ftp_parsing_sqlite\StockCalc\obj\Debug\StockCalc.ConCboSearch.resources
+D:\gitSrc\c-_Stock_Using_ftp_parsing_sqlite\StockCalc\obj\Debug\StockCalc.Detail.resources
+D:\gitSrc\c-_Stock_Using_ftp_parsing_sqlite\StockCalc\obj\Debug\StockCalc.ViewStock.resources
+D:\gitSrc\c-_Stock_Using_ftp_parsing_sqlite\StockCalc\obj\Debug\StockCalc.Input.resources
+D:\gitSrc\c-_Stock_Using_ftp_parsing_sqlite\StockCalc\obj\Debug\StockCalc.MdiParents.resources
+D:\gitSrc\c-_Stock_Using_ftp_parsing_sqlite\StockCalc\obj\Debug\StockCalc.Memo.resources
+D:\gitSrc\c-_Stock_Using_ftp_parsing_sqlite\StockCalc\obj\Debug\StockCalc.EnrollForm.resources
+D:\gitSrc\c-_Stock_Using_ftp_parsing_sqlite\StockCalc\obj\Debug\StockCalc.MemoMain.resources
+D:\gitSrc\c-_Stock_Using_ftp_parsing_sqlite\StockCalc\obj\Debug\StockCalc.Option.resources
+D:\gitSrc\c-_Stock_Using_ftp_parsing_sqlite\StockCalc\obj\Debug\StockCalc.Report.resources
+D:\gitSrc\c-_Stock_Using_ftp_parsing_sqlite\StockCalc\obj\Debug\StockCalc.Setting.resources
+D:\gitSrc\c-_Stock_Using_ftp_parsing_sqlite\StockCalc\obj\Debug\StockCalc.Properties.Resources.resources
+D:\gitSrc\c-_Stock_Using_ftp_parsing_sqlite\StockCalc\obj\Debug\StockCalc.Query.resources
+D:\gitSrc\c-_Stock_Using_ftp_parsing_sqlite\StockCalc\obj\Debug\StockCalc.Revenue.resources
+D:\gitSrc\c-_Stock_Using_ftp_parsing_sqlite\StockCalc\obj\Debug\StockCalc.SimpleMemo.resources
+D:\gitSrc\c-_Stock_Using_ftp_parsing_sqlite\StockCalc\obj\Debug\StockCalc.Sync.resources
+D:\gitSrc\c-_Stock_Using_ftp_parsing_sqlite\StockCalc\obj\Debug\StockCalc.csproj.GenerateResource.cache
+D:\gitSrc\c-_Stock_Using_ftp_parsing_sqlite\StockCalc\obj\Debug\StockCalc.csproj.CoreCompileInputs.cache
+D:\gitSrc\c-_Stock_Using_ftp_parsing_sqlite\StockCalc\obj\Debug\StockCalc.csproj.CopyComplete
+D:\gitSrc\c-_Stock_Using_ftp_parsing_sqlite\StockCalc\obj\Debug\StockCalc.exe
+D:\gitSrc\c-_Stock_Using_ftp_parsing_sqlite\StockCalc\obj\Debug\StockCalc.pdb

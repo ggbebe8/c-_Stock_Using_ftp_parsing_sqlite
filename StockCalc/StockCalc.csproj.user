@@ -1,6 +1,6 @@
-﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="15.0">
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <StartWorkingDirectory>C:\Users\ggbeb\Desktop\새 폴더 (3)\StockCalc\StockCalc 디버깅\</StartWorkingDirectory>
+    <StartWorkingDirectory>.</StartWorkingDirectory>
     <RemoteDebugEnabled>false</RemoteDebugEnabled>
     <RemoteDebugMachine>\\192.168.0.100\ggbebe8\chops\프로젝트\StockCalc\StockCalc 디버깅</RemoteDebugMachine>
   </PropertyGroup>
